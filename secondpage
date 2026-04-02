@@ -1,1 +1,7 @@
+<style>
+body {
+Background-image: url(‘https://nilsontcarroll.github.io/twine/images/wallpaper.JPG’);
+background-repeat: cover;
+}
+</style>
 
